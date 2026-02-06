@@ -1,1 +1,1 @@
-# Home of Dad Jokes API
+Dad Jokes API
